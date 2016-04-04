@@ -1,4 +1,4 @@
-# MySimpleTweets
+# clone Simple Tweets
 Week4 Assignment:  write a simple twitter application using fragments
 
 ## Video Walkthrough
